@@ -41,24 +41,28 @@ The app guides users through a self-assessment quiz and generates personalized r
 
 ## 🚀 Installation & Setup  
 1. **Clone the repository**
-Open the project in Android Studio
-
-Go to File → Open → Select the project folder
-
-Let Gradle sync automatically
-
-Connect your Android device or start an emulator
-
-Run the app
-
-Click ▶️ Run in Android Studio to launch it
-
+   ```bash
+   git clone https://github.com/your-username/prakriti-identification-app.git
+   ```
+2. **Open the project in Android Studio**
+   - Go to **File → Open → Select the project folder**
+3. **Let Gradle sync automatically**
+4. **Connect your Android device** or start an emulator  
+5. **Run the app**
+   - Click ▶️ *Run* in Android Studio to launch it  
 
 ---
 
-✅ You can now copy everything (including the triple backticks) and paste it directly into your GitHub **README.md** file.  
+## 🧮 Example Flow  
+| Step | Screen | Description |
+|------|---------|-------------|
+| 1 | Home Screen | Tap *Start Assessment* |
+| 2 | Quiz | Answer multiple-choice questions about your traits |
+| 3 | Result | Displays your Prakriti type |
+| 4 | Tips | Shows Ayurvedic lifestyle guidance |
 
-Would you like me to make it slightly **shorter and simpler** (for college project submission), or keep it **professional for GitHub portfolio**?
+---
 
-   ```bash
-   git clone https://github.com/your-username/prakriti-identification-app.git
+
+## 🪷 Acknowledgement  
+Inspired by Ayurvedic principles to promote self-awareness and balance between mind, body, and soul.
